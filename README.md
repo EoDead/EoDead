@@ -34,7 +34,6 @@
 ### Десктоп и геймдев
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### Редакторы кода и офисные приложения
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -66,6 +65,13 @@
 ### Приложения на C#
 Разработка десктопных приложений на C# / .NET.  
 Текущий проект: **construction company** – приложение для управления строительной компанией (учёт объектов, сметы, сотрудники).
+
+---
+
+## Образование
+
+**Высшее образование – бакалавриат**  
+**09.03.03 – Прикладная информатика**  
 
 ---
 
