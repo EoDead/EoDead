@@ -25,25 +25,24 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
 
-### Десктоп и геймдев
-![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
 ### Дизайн и графика
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-### Инструменты разработки
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+### Десктоп и геймдев
+![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+### Редакторы кода и офисные приложения
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
-
-### Офисные инструменты
 ![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
@@ -52,7 +51,7 @@
 ### MyNotes
 Десктопное приложение для заметок и проектов (в стадии разработки) на Tauri + React + TypeScript.
 
-[Репозиторий](https://github.com/EoDead/MyNotes)
+[Репозиторий](https://github.com/EoDead/MyNotes) *(укажи правильную ссылку)*
 
 ---
 
