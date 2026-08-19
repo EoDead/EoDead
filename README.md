@@ -25,6 +25,11 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Blender3D](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white).
 
+### Базы данных и инструменты
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
+
 ---
 
 ## Мои проекты
