@@ -23,6 +23,7 @@
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Blender3D](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white).
 
 ---
 
