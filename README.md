@@ -50,7 +50,7 @@
 ### MyNotes
 Десктопное приложение для заметок и проектов (в стадии разработки) на Tauri + React + TypeScript.
 
-[Репозиторий](https://github.com/EoDead/MyNotes) *(укажи правильную ссылку)*
+[Репозиторий](https://github.com/EoDead/release-notes).
 
 ---
 
