@@ -52,15 +52,11 @@
 
 [Репозиторий](https://github.com/EoDead/release-notes).
 
----
-
 ### Игра на Unreal Engine 5
 Разработка собственной игры на Unreal Engine 5 (C++ и Blueprints).  
 Жанр: dark fantasy souls-like.  
 Проект: **liliys**.  
 Моделирование и ассеты создаются в Blender.
-
----
 
 ### Приложения на C#
 Разработка десктопных приложений на C# / .NET.  
@@ -72,14 +68,6 @@
 
 **Высшее образование – бакалавриат**  
 **09.03.03 – Прикладная информатика**  
-
----
-
-## Статистика GitHub
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=EoDead&show_icons=true&theme=dark&hide_border=true)
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=EoDead&layout=compact&theme=dark&hide_border=true)
 
 ---
 
