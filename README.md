@@ -47,8 +47,8 @@
 
 ## Мои проекты
 
-### MyNotes
-Десктопное приложение для заметок и проектов (в стадии разработки) на Tauri + React + TypeScript.
+### ApexEo
+Десктопное приложение для проектов ER DFD (в стадии разработки) на Tauri + React + TypeScript.
 
 [Репозиторий](https://github.com/EoDead/release-notes).
 
