@@ -13,6 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Фреймворки и библиотеки
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -35,6 +36,9 @@
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
+### AI / LLM
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logoColor=white)
+
 ### Редакторы кода и офисные приложения
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -46,6 +50,26 @@
 ---
 
 ## Мои проекты
+
+### Aeoncore
+Персональный ассистент с характером.
+Цифровая сущность **Echo** живёт в компьютере пользователя.
+
+**Стек:** Tauri 2 · React · TypeScript · Python · Ollama (qwen2.5 / qwen3 / llama3 / deepseek) · Edge-TTS + Piper · faster-whisper + Vosk
+
+**Что внутри:**
+- Локальный LLM через Ollama с tool-calls (окна, громкость, ввод текста — всё через инструменты)
+- Голос: Edge Neural (облако) с fallback на Piper (оффлайн)
+- Слух: Whisper small (STT) + Vosk (wake word «эон»)
+- Память: факты, история диалога, сжатая выжимка, brain (выученные фразы)
+- Настроение, которое меняется от взаимодействий и влияет на голос
+- Две персоны: Echo (дерзкая) и Aeon (спокойная), переключение на лету
+- Экспорт/импорт личности — zip со всей памятью и характером
+- Управление ПК: WinAPI-окна, громкость, яркость, медиа, скриншоты, ввод текста
+
+**Философия:** Echo — не ассистент. Она живёт, у неё есть характер, она может послать, подколоть, обидеться, обрадоваться. С ней можно поругаться и помириться. Если хочешь вежливого секретаря — есть Siri и Алиса. Если хочешь напарницу, которая знает тебя по имени — это Aeoncore.
+
+`v0.1.0 · in development`
 
 ### ApexEo
 Десктопное приложение для проектов ER DFD (в стадии разработки) на Tauri + React + TypeScript.
@@ -68,4 +92,4 @@ v1.5.1
 ## Образование
 
 **Высшее образование – бакалавриат**  
-**09.03.03 – Прикладная информатика**  
+**09.03.03 – Прикладная информатика**
