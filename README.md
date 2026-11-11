@@ -1,51 +1,56 @@
-# E0Dead
+```console
+e0dead@github:~$ whoami
+разработчик · десктопные приложения · gamedev
+```
 
-Разработчик. Десктопные приложения, GameDev.
+```console
+e0dead@github:~$ neofetch
+OS       E0OS 1.0
+Langs    C++ · C# · Python · TypeScript
+Stack    Tauri · React · .NET · UE5
+DB       PostgreSQL · SQL Server
+AI       Ollama (qwen / llama / deepseek)
+Tools    Blender · Figma · VS Code
+Repo     github.com/EoDead
+```
 
-Стек: C++, C#, Python, TypeScript, Tauri, React, Unreal Engine 5, .NET, SQL.
+Разработчик. Десктопные приложения и GameDev. Пишу свои редакторы, ассистентов и игры — от физики графа до C++-боёвки в UE5.
 
 ---
 
-## Основной проект
+## Проекты
 
-**ApexEo** — редактор ER-диаграмм и DFD. В постоянной разработке.
+### ApexEo `v1.5.3`
+Редактор ER-диаграмм и DFD. В постоянной разработке.
 
 Граф с force-directed физикой, spatial hashing, smart guides, Obsidian-style drag repulsion, сайдбар в стиле проводника.
 
-Стек: Tauri · React · TypeScript
-Версия: v1.5.3
+`Tauri · React · TypeScript`
 
----
+### Aeoncore `v0.1.0`
+Персональный ассистент с локальным LLM. Две персоны (Echo, Aeon), голос, слух, память, настроение, управление окнами Windows, медиа, ввод текста через LLM tool-calls.
 
-## Остальные проекты
-
-### Aeoncore
-Персональный ассистент с локальным LLM. Две персоны (Echo, Aeon), голос (Edge-TTS/Piper), слух (Whisper/Vosk), память (факты, история, brain), настроение, управление окнами Windows, медиа, вводом текста через LLM tool-calls.
-
-Стек: Python · Tauri 2 · React · TypeScript · Ollama · Edge-TTS · Piper · Whisper · Vosk
-Статус: v0.1.0, в разработке
+`Python · Tauri 2 · React · TypeScript · Ollama · Whisper · Vosk`
 
 ### liliys
-Dark fantasy souls-like на Unreal Engine 5. C++ и Blueprints. Модели и ассеты в Blender.
+Dark fantasy souls-like на Unreal Engine 5. C++ и Blueprints, модели и ассеты в Blender.
 
-Стек: Unreal Engine 5 · C++ · Blueprints · Blender
-Статус: в разработке
+`Unreal Engine 5 · C++ · Blueprints · Blender`
 
 ### Construction Manager
 Учёт объектов, смет и сотрудников для строительной компании.
 
-Стек: C# · .NET · WPF · SQL Server
-Статус: в разработке
+`C# · .NET · WPF · SQL Server`
 
 ---
 
 ## Стек
 
-**Языки:** C++ · C# · Python · TypeScript · JavaScript · HTML · CSS
-**Фреймворки:** Tauri 2 · React · .NET · Node.js · Unreal Engine 5
-**Базы данных:** PostgreSQL · SQL Server
-**AI/LLM:** Ollama (qwen2.5, qwen3, llama3, deepseek)
-**Инструменты:** Blender · Figma · Photoshop · After Effects · VS Code · Visual Studio
+**Языки** — C++ · C# · Python · TypeScript · JavaScript · HTML · CSS
+**Фреймворки** — Tauri 2 · React · .NET · Node.js · Unreal Engine 5
+**Базы данных** — PostgreSQL · SQL Server
+**AI/LLM** — Ollama (qwen2.5, qwen3, llama3, deepseek)
+**Инструменты** — Blender · Figma · Photoshop · After Effects · VS Code · Visual Studio
 
 ---
 
@@ -57,4 +62,10 @@ Dark fantasy souls-like на Unreal Engine 5. C++ и Blueprints. Модели и
 
 ## Контакты
 
-GitHub: https://github.com/EoDead
+GitHub: [github.com/EoDead](https://github.com/EoDead)
+
+```console
+e0dead@github:~$ sudo hire-me
+[sudo] password for recruiter: ********
+доступ разрешён. высылайте оффер.
+```
