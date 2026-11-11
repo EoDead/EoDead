@@ -10,7 +10,7 @@ Langs    C++ · C# · Python · TypeScript
 Stack    Tauri · React · .NET · UE5
 DB       PostgreSQL · SQL Server
 AI       Ollama (qwen / llama / deepseek)
-Tools    Blender · Figma · VS Code
+Tools    Blender · Figma · VS Code · Visual Studio
 Repo     github.com/EoDead
 ```
 
