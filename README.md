@@ -27,6 +27,9 @@ Repo     github.com/EoDead
 
 `Tauri · React · TypeScript`
 
+- [Скачать приложение](https://github.com/EoDead/mynotes-updates/tags)
+- [Посмотреть изменения обновлений](https://github.com/EoDead/release-notes/blob/main/release-notes.json)
+
 ### Aeoncore `v0.1.0`
 Персональный ассистент с локальным LLM. Две персоны (Echo, Aeon), голос, слух, память, настроение, управление окнами Windows, медиа, ввод текста через LLM tool-calls.
 
