@@ -27,7 +27,7 @@ Repo     github.com/EoDead
 
 `Tauri · React · TypeScript`
 
-- [Скачать приложение](https://github.com/EoDead/mynotes-updates/tags)
+- [Скачать приложение](https://github.com/EoDead/mynotes-updates/releases)
 - [Посмотреть изменения обновлений](https://github.com/EoDead/release-notes/blob/main/release-notes.json)
 
 ### Aeoncore `v0.1.0`
