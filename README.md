@@ -2,9 +2,7 @@
 e0dead@github:~$ whoami
 разработчик · десктопные приложения · gamedev
 ```
-```console
-e0dead.vercel.app
-```
+My web: e0dead.vercel.app
 ```console
 e0dead@github:~$ neofetch
 OS       E0OS 1.0
