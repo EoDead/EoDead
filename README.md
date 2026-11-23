@@ -22,7 +22,7 @@ Repo     github.com/EoDead
 
 ## Проекты
 
-### ApexEo `v1.5.3`
+### ApexEo `v1.5.31`
 Редактор ER-диаграмм и DFD. В постоянной разработке.
 
 Граф с force-directed физикой, spatial hashing, smart guides, Obsidian-style drag repulsion, сайдбар в стиле проводника.
